@@ -1,0 +1,9 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/(group) copy/login/page": "app/(group) copy/login/page.js",
+  "/(group)/login/page": "app/(group)/login/page.js",
+  "/(group) copy/member/page": "app/(group) copy/member/page.js",
+  "/(group)/member/page": "app/(group)/member/page.js"
+}
